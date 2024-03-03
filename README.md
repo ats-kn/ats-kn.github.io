@@ -1,1 +1,1 @@
-Jetpack Compose for Webで作るWebサイト
+Jetpack Compose for Webで作るポートフォリオページ
